@@ -1,0 +1,33 @@
+You can use this website for reference
+
+https://www.javatpoint.com/css-background
+
+CSS background property is used to define the background effects on element. There are 5 CSS background properties that affects the HTML elements:
+
+1.background-color : Add the background color to the element
+
+2.background-image: we can add the background image by using this property
+
+3.background-position : you set the background image position by using this property
+
+You can set the following positions:
+center
+top
+bottom
+left
+right
+
+Css Border
+
+The CSS border is a shorthand property used to set the border on an element.
+
+The CSS border properties are use to specify the style, color and size of the border of an element. The CSS border properties are given below
+
+1.border-style: we will specify the border to the element
+
+list: None, dotted, dashed, solid,
+
+2.border-color used to display the border color, it has to be used with the boredr-style
+3.border-width: used to set the width of the element. we have use in pixels
+it has to be used with the border-style 
+4.border-radius : sisplays the border radius it has to be used with the border style

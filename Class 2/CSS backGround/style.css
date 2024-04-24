@@ -1,0 +1,14 @@
+p{
+  background-color: #ff0000;
+}
+
+h1{
+  background-image: url("car-img1.jpg");
+  border-image: auto;
+}
+
+h2{
+  background-image: url("car-img2.jpg");
+
+  background-position: right;
+}

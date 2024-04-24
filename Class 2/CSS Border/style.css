@@ -1,0 +1,21 @@
+h1{
+  border-style: dashed;
+}
+
+h2{
+  border-style: double;
+  border-width: 10px;
+}
+
+h3{
+  border-style: double;
+  border-width: 10px;
+  border-color: blue;
+}
+
+h4{
+  border-style: double;
+  border-width: 10px;
+  border-color: red;
+  border-radius: 20px;
+}
